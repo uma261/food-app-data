@@ -7,11 +7,11 @@
   {
     "id": 2,
     "name": "Pure Veg",
-    "imageUrl": 
+    "imageUrl": "https://raw.githubusercontent.com/uma261/food-app-data/refs/heads/main/images/veg.jpg"
   },
   {
     "id": 3,
     "name": "Non Veg",
-    "imageUrl": 
+    "imageUrl": "https://raw.githubusercontent.com/uma261/food-app-data/refs/heads/main/images/nonveg.png"
   }
 ]
