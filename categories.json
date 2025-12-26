@@ -2,16 +2,16 @@
   {
     "id": 1,
     "name": "Bakery & Snacks",
-    "imageUrl": "https://raw.githubusercontent.com/username/food-app-data/main/images/bakery.png"
+    "imageUrl": "https://raw.githubusercontent.com/uma261/food-app-data/refs/heads/main/images/bakery.jpg"
   },
   {
     "id": 2,
     "name": "Pure Veg",
-    "imageUrl": "https://raw.githubusercontent.com/username/food-app-data/main/images/veg.png"
+    "imageUrl": 
   },
   {
     "id": 3,
     "name": "Non Veg",
-    "imageUrl": "https://raw.githubusercontent.com/username/food-app-data/main/images/nonveg.png"
+    "imageUrl": 
   }
 ]
